@@ -7,7 +7,7 @@
 
 .container img {  border: 1px solid rgb(239, 239, 241);  border-radius: 4px;  padding: 5px;  width: 100%;}
 .container img :active {   border: 1px solid rgb(197, 4, 45); border-radius: 5px; padding: 5px;  width: 90%; }
-.container span{  color: white;  font-size: medium;  border-bottom: 10px solid rgb(197, 4, 45) ;
+.container span{  color: rgb(14, 13, 13);  font-size: medium;  border-bottom: 10px solid rgb(197, 4, 45) ;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .titleclass{ background-color: rgb(10, 236, 59);   border-radius: 3rem 3rem 0rem 0rem;
