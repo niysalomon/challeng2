@@ -20,7 +20,7 @@ function App()
   return (<div className="App"> 
     <div>
       <input type="text" onChange={(event) =>setQuery(event.target.value)}/>
-      <button onClick={Search}>Get Album Photos By Id</button>
+      <button className="btn btn-primary" onClick={Search}>Get Album Photos By Id</button>
     </div>
     <div className="section">
     <div className="container">
